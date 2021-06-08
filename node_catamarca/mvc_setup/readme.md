@@ -7,8 +7,8 @@ npm init -y
 npm i express ejs express-ejs-layouts
 npm i --save-dev nodemon
 [...]
-npm run devStart
 npm i mongoose
+npm run devStart
 ```
 
 ```console
